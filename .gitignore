@@ -7,3 +7,5 @@ dist/
 build/
 
 weight_rewards copy.db
+
+main.spec
